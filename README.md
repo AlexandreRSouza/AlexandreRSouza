@@ -4,7 +4,7 @@
 - 👀 Meu interesse em inicar no desenvolvimento de Software.    
 - 🌱 Estudando o curso de Desenvolvimento de Software Multiplataforma (D.S.M.) na Faculdade de Tecnologia do estado de São Paulo FATEC -SJC.
 
-  <div>
+  <div style="display: inline_block">
     <a href="https://github.com/alexandrersouza">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreRSouza&show_icons=true&theme=tokyonight&include_all)commits-true&count_private-true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRSouza&layout-compact&langs_count-16&theme=tokyonight"/>
